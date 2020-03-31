@@ -1,0 +1,34 @@
+.Haut
+{
+  color: red;
+  text-align: right;
+
+}
+.IconAppGoogle
+{ opacity: 1;
+  float: right;
+  width: 1px;height: 1px;
+            }
+.gmail
+{border-radius: 15px Green solid;
+}
+.Mada
+{
+  color: Black;
+  background-color: #918686;padding: 16px
+}
+.logogoogle
+{align-items: center;}
+.Bas
+{text-align: center;
+background-color: #918686;padding: 16px}
+.Recherche
+{text-align: center;opacity: 0.7; margin-top: 60px}
+.RechercheGoogle
+{background-color: #918686;border: 1px Black solid;
+border-radius: 2px;padding: 8px}
+.Jaidelachance
+{background-color: #918686;border: 1px Black solid;
+border-radius: 2px; padding: 8px; margin-left: 10px}
+.malagasy
+{text-align: center;margin-bottom: 30px}
